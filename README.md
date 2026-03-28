@@ -19,10 +19,10 @@ The application is configured to be compiled for Android via **Buildozer**.
 
 ### Android Compilation
 To generate the APK file, use the following command in your Linux/Pydroid environment:
+
 ```bash
-buildozer android debug
-📱 Required Permissions
+buildozer android debug📱 Required Permissions
 To function correctly on a smartphone, the app requests access to:
 External Storage (to read MP3 files).
 Microphone (for future AI features).
-Developed by Mister-Flasheur / Dj Emmato  
+Developed by Mister-Flasheur / Dj Emmato 
